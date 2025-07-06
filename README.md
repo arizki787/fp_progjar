@@ -103,3 +103,25 @@ Pastikan server sudah berjalan di port 8889
 
 ### Error: Room not found
 Refresh daftar room atau buat room baru
+
+## Contoh Penggunaan
+
+### Tampilan Menu Utama
+![Screenshot 2025-07-07 054152](https://github.com/user-attachments/assets/c678a2b8-3c1d-48ca-a77d-fc58afe333e3)
+
+### Tampilan Create Room
+![Screenshot 2025-07-07 054222](https://github.com/user-attachments/assets/7f97635b-f4eb-4f4d-a86d-92a1d12153d2)
+
+### Tampilan Join Room
+![Screenshot 2025-07-07 054232](https://github.com/user-attachments/assets/ce4ea3b0-bf6e-44c3-a493-6c5645a59fb5)
+
+### Tampilan Permainan
+![Screenshot 2025-07-07 054250](https://github.com/user-attachments/assets/d4b72046-957d-438d-8763-a87395c50918)
+
+### Tampilan Winning the Game
+![Screenshot 2025-07-07 054346](https://github.com/user-attachments/assets/fd29eea1-cb66-466e-ad78-672e7838b364)
+
+### Tampilan Losing the Game
+![Screenshot 2025-07-07 054409](https://github.com/user-attachments/assets/fc41eea1-381d-4dec-9830-e436d71acfb6)
+
+
