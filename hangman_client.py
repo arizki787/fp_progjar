@@ -437,6 +437,7 @@ class HangmanClient:
             if self.message_timer > 3000:
                 self.message = ""
                 self.message_timer = 0
+
             
             # Update game state periodically
             if update_timer > 2000:  # Update every 2 seconds
