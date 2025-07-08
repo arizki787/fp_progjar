@@ -1,5 +1,14 @@
 # Hangman Multiplayer Game
 
+## Anggota Kelompok
+
+| Nama                              | NRP        |
+| --------------------------------- | ---------- |
+| Roofiif Alria Dzakwan             | 5025221012 |
+| Maruli Gilbert Cristopel Hutagaol | 5025221119 |
+| Muhammad Rafi Budi Purnama        | 5025221307 |
+| Aditya Rizki Muhammad             | 5025221272 |
+
 Game Hangman multiplayer menggunakan HTTP server dan client pygame.
 
 ## Fitur
